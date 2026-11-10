@@ -8,3 +8,5 @@
 任务已完成
 第%d天：当前小车高度为%d米
 小车成功到达目标高度%d米，所需天数为%d天
+sudo apt update
+sudo apt install open-vm-tools open-vm-tools-desktop -y

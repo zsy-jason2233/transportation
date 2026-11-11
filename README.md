@@ -10,3 +10,4 @@
 小车成功到达目标高度%d米，所需天数为%d天
 sudo apt update
 sudo apt install open-vm-tools open-vm-tools-desktop -y
+在ubuntu虚拟机上用ssh地址传送文档到https://github.com/orgs/ConQU2027/repositories中
